@@ -4,12 +4,22 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "start": "docker start space-flight-news",
+    "restart ": "docker restart space-flight-news",
+    "stop": "docker stop space-flight-news",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@mdi/font": "^6.5.95",
+    "axios": "^0.24.0",
+    "buefy": "^0.9.13",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "date-fns": "^2.27.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.4.0",
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
