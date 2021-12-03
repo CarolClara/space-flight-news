@@ -23,7 +23,7 @@ mais recentes.
 ---
 
 ## Instalação
-## Rodando o Projeto Docker
+## Rodando o Projeto com Docker
 
 #### Dependências
 ![Docker](https://img.shields.io/badge/Docker--blue)
