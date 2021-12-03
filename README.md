@@ -18,7 +18,7 @@ pela API pública Space Flight News. Além de exibir os artigos retornados pela 
 os artigos através de palavras chaves contidas no título e, também, ordenar por artigos mais antigos ou 
 mais recentes.
 
-###### Challenge by Coodesh
+###### This is a Challenge by [Coodesh](https://coodesh.com/)
 
 ---
 
