@@ -9,6 +9,8 @@
 ![Buefy](https://img.shields.io/badge/Buefy-blueviolet)
 ![Docker](https://img.shields.io/badge/Docker-blue)
 
+###### This is a Challenge by [Coodesh](https://coodesh.com/)
+
 ---
 
 ## Sobre
@@ -18,7 +20,7 @@ pela API pública Space Flight News. Além de exibir os artigos retornados pela 
 os artigos através de palavras chaves contidas no título e, também, ordenar por artigos mais antigos ou 
 mais recentes.
 
-###### This is a Challenge by [Coodesh](https://coodesh.com/)
+##### Apresentação do projeto [aqui](https://www.loom.com/share/f40b09e4314f4a6ab5b3486a117f76dd?sharedAppSource=personal_library)
 
 ---
 
